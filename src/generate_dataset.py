@@ -1,7 +1,3 @@
-"""
-Dataset generator for Cricket Match Weather Prediction.
-Simulates realistic weather patterns across major cricket-playing nations.
-"""
 
 import numpy as np
 import pandas as pd
