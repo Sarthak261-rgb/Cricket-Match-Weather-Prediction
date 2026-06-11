@@ -48,7 +48,7 @@ cricket-weather-predictor/
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/cricket-weather-predictor.git
+git clone https://github.com/Sarthak261-rgb
 cd cricket-weather-predictor
 
 python -m venv venv
