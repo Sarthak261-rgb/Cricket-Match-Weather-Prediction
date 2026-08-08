@@ -1,6 +1,6 @@
 # Cricket Match Weather Prediction using LSTM
 
-Predicting match conditions before a cricket game starts can make a real difference — for captains deciding whether to bat or bowl, for broadcasters managing schedules, and for analysts building pre-match strategies. This project builds an end-to-end LSTM pipeline that takes historical weather sequences at a given venue and forecasts three things simultaneously: whether the match will be completed or disrupted, what the pitch surface is likely to behave like, and whether play is possible at all.
+Predicting match conditions before a cricket game starts can make a real difference for captains deciding whether to bat or bowl, for broadcasters managing schedules, and for analysts building pre-match strategies. This project builds an end-to-end LSTM pipeline that takes historical weather sequences at a given venue and forecasts three things simultaneously: whether the match will be completed or disrupted, what the pitch surface is likely to behave like, and whether play is possible at all.
 
 ---
 
